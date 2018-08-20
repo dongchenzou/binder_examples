@@ -1,6 +1,6 @@
 dependencies:
-  - matplotlib
-  - pandas
-  - numpy
   - pip:
     - sympy
+    - matplotlib
+    - pandas
+    - numpy
